@@ -1,2 +1,2 @@
 # ctf-frontend-task
-A backend api
+A simple weather application made using React , Bootstrap and Weather Stack API
