@@ -1,0 +1,12 @@
+<input
+                    
+                      type="text"
+                      className="form-control"
+                      placeholder="Search City"
+                      aria-label="Recipient's username"
+                      aria-describedby="basic-addon2"
+                      onChange={(e) => { props.changeRegion(e.target.value) }}
+                    /> 
+                    <button class="input-group-text" type="submit" id="basic-addon2" >
+                      <i className="fas fa-search"></i>
+                    </button>
